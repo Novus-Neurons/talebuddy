@@ -8,7 +8,70 @@
 }
 
 body {
-    background: #212121;
+    background: #ECECFF;
     text-align: center;
-    color: #f2f2f2;
+    color: #212121;
+}
+
+#main::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    z-index: -1;
+    background: radial-gradient(92.82% 58.5% at 65.55% 44.29%, rgba(188, 208, 248, 0.50) 0%, rgba(255, 252, 252, 0.85) 100%), #F2F9F4;
+}
+
+nav {
+    display: flex;
+    width: 94%;
+    border-radius: 25px;
+    background: #3094AA;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.1em 2em;
+    margin-inline: auto;
+    margin-top: 1em;
+}
+
+nav .logo-container>img {
+    width: 100%;
+    aspect-ratio: 1;
+}
+
+nav .logo-container {
+    display: flex;
+    font-size: 1.5em;
+    align-items: center;
+    gap: 1em;
+    color: white;
+    height: 5em;
+    aspect-ratio: 1;
+}
+
+nav .search-container {
+    width: min(40%, 450px);
+}
+
+nav .search-container input {
+    all: unset;
+    width: 100%;
+    padding: 0.6em 0.8em;
+    border-radius: 30px;
+    background: #FBFBFF;
+}
+
+nav .githubIcon {
+    height: 75%;
+}
+
+
+@media only screen and (max-width : 520px) {
+
+    nav .search-container {
+        display: none;
+    }
+
 }
