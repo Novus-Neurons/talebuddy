@@ -1,6 +1,6 @@
 {
     "title": "story title",
-    "number_of_pages": 0,
+    "number_of_pages": "<number>",
     "pages": [
         {
             "page_title": "page title",
@@ -11,7 +11,10 @@
             ]
         }
     ],
-    "credits": {
-        "name": "url"
-    }
+    "credits": [
+        {
+            "name": "",
+            "url": ""
+        }
+    ]
 }

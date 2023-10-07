@@ -1,0 +1,20 @@
+{
+    "title": "A king",
+    "number_of_pages": 1,
+    "pages": [
+        {
+            "page_title": "A king and his ______",
+            "page_content": [
+                "there was a king",
+                "He had a dream",
+                "he never woke up"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "my mind",
+            "url": "mymind@me.com"
+        }
+    ]
+}
