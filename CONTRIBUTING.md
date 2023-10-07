@@ -73,6 +73,12 @@ Follow these steps to create and contribute a new JSON file for your story or ta
 
 If you wish to contribute to the website's development, you can refer to the designs provided in the `/designs` folder. Make improvements to the user interface and user experience while following best practices for web development.
 
+make sure that the data from json is properly displayed after the changes.
+
+Do not change the structure of the json objects.
+
+[figma](https://www.figma.com/file/Ytjhr2hushiuM5ZblRWjrz/NN_Hacktober?type=design&node-id=0%3A1&mode=design&t=svBHSaUF1Zl1HTGw-1)
+
 ## Code Style Guidelines
 
 Please maintain clean and well-documented code for website development. Ensure that your contributions align with the project's coding standards and best practices.
