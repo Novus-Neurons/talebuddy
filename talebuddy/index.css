@@ -24,6 +24,11 @@ body {
     background: radial-gradient(92.82% 58.5% at 65.55% 44.29%, rgba(188, 208, 248, 0.50) 0%, rgba(255, 252, 252, 0.85) 100%), #F2F9F4;
 }
 
+nav a {
+    all: unset;
+    cursor: pointer;
+}
+
 nav {
     display: flex;
     width: 94%;

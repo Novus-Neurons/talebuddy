@@ -2,7 +2,7 @@
 
 Welcome to Tale Buddy, an open-source web application dedicated to fostering creativity and storytelling collaboration. With Tale Buddy, you can easily share and contribute to a collective repository of stories, tales, and novels, all while engaging with fellow writers and story enthusiasts.
 
-![Tale Buddy](./talebuddy/designs/mainPage.png)
+![Tale Buddy](./designs/mainPage.png)
 
 ## Project Overview
 
