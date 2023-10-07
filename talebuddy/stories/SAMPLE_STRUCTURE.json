@@ -1,0 +1,17 @@
+{
+    "title": "story title",
+    "number_of_pages": 0,
+    "pages": [
+        {
+            "page_title": "page title",
+            "page_content": [
+                "paragraph1",
+                "paragraph2",
+                "paragraph2"
+            ]
+        }
+    ],
+    "credits": {
+        "name": "url"
+    }
+}
