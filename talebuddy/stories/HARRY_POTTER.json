@@ -1,0 +1,20 @@
+{
+    "title": "Harry Potter Introduction",
+    "number_of_pages": 1,
+    "pages": [
+        {
+            "page_title": "Harry",
+            "page_content": [
+                "Written By J.K Rowling",
+                "His frinds are Ron and Hermione",
+                "The series explores themes of friendship."
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "Harry Potter",
+            "url": "#"
+        }
+    ]
+}
