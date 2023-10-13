@@ -3,17 +3,17 @@
     "number_of_pages": 10,
     "pages": [
         {
-            "page_title": "Tony ",
+            "page_title": "Tony Stark",
             "page_content": [
-                "Updated Paragraph 1",
-                "Updated Paragraph 2",
-                "Updated Paragraph 3"
+                "Iron Man, also known as Tony Stark, is a brilliant inventor and philanthropist.",
+                "He created the Iron Man suit, which he uses to fight villains and save the world.",
+                "With his intelligence and technology, he's a crucial member of the Avengers."
             ]
         }
     ],
     "credits": [
         {
-            "name": "Author Name",
+            "name": "Stan Lee",
             "url": "Author's URL"
         }
     ]
