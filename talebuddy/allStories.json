@@ -1,6 +1,8 @@
 {
-    "total_number_of_stories":1,
+    "total_number_of_stories":2,
     "story_paths":[
         "talebuddy/stories/HARRY_POTTER.json"
+        "talebuddy/stories/The_Gulliver's_Travels.json"
+
     ]
 }
