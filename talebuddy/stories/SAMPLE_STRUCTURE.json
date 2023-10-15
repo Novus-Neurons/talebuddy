@@ -1,5 +1,6 @@
 {
     "title": "story title",
+    "about_story": "about the story",
     "number_of_pages": "<number>",
     "pages": [
         {

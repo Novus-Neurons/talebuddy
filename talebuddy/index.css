@@ -73,6 +73,44 @@ nav .githubIcon {
 }
 
 
+#Allcards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: start;
+    gap: 1em;
+    margin-top: max(50px, 3%);
+    width: min(95vw, 1600px);
+    margin-inline: auto;
+}
+
+.card:hover {
+    box-shadow: 6px 0.55px 18px -3px rgba(101, 101, 101, 0.608);
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: min(80vw, 45%);
+    max-width: fit-content;
+    min-width: min(85%, 350px);
+    margin-inline: auto;
+    padding: 2em;
+    border-radius: 12px;
+    border: 1px solid rgba(34, 34, 34, 0.25);
+    background: #FFF;
+    gap: 1em;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.card p {
+    width: 95%;
+    margin: auto;
+    opacity: 0.6;
+}
+
+
 @media only screen and (max-width : 520px) {
 
     nav .search-container {
