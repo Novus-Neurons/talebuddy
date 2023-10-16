@@ -1,0 +1,21 @@
+{
+    "title": "The Sanatani",
+    "about_story" : "Spreading Sanatan Culture over world!!",
+    "number_of_pages": 1,
+    "pages": [
+        {
+            "page_title": "Jai Shree Ram",
+            "page_content": [
+                "paragraph 1",
+                "Pragraph 2",
+                "Pragraph 3"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "my mind",
+            "url": "mymind@me.com"
+        }
+    ]
+}
