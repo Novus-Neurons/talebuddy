@@ -1,0 +1,19 @@
+{
+    "title": "story about hacktober fest",
+    "about_story": "today, on 16th october 2023 we had a bootcamp about hacktober fest we learnt to fork and edit files",
+    "number_of_pages": "<1>",
+    "pages": [
+        {
+            "page_title": "story",
+            "page_content": [
+                "paragraph1"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "Sabhya Lokhande",
+            "url":""
+        }
+    ]
+}
