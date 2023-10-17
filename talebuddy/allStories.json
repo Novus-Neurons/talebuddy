@@ -1,9 +1,18 @@
 {
-    "total_number_of_stories":3,
+    "total_number_of_stories":12,
     "story_paths":[
+        "/stories/AA.json",
         "/stories/HARRY_POTTER.json",
         "/stories/The_Gulliver's_Travels.json",
         "/stories/A_KING.json",
-        "/talebuddy/stories/luffy.json"
+        "/talebuddy/stories/luffy.json",
+        "/stories/Sanatan.json",
+        "/stories/sabhya.json",
+        "/stories/HARE.json",
+        "/stories/SW.json",
+        "/stories/isha.json",
+        "/stories/DOREMON.json",
+        "/stories/NINJA_HATTORI.json",
+        "/stories/hi.json",
     ]
 }
