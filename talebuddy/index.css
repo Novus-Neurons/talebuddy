@@ -91,7 +91,6 @@ nav .githubIcon {
 .card {
     display: flex;
     flex-direction: column;
-    height: auto;
     width: min(80vw, 45%);
     max-width: fit-content;
     min-width: min(85%, 350px);
