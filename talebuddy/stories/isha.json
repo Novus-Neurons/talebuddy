@@ -1,0 +1,21 @@
+{
+    "title": "NN",
+    "about_story": "Novus Neurons",
+    "number_of_pages": "<number>",
+    "pages": [
+        {
+            "page_title": "page title",
+            "page_content": [
+                "paragraph1",
+                "paragraph2",
+                "paragraph2"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "",
+            "url": ""
+        }
+    ]
+}
