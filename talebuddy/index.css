@@ -74,10 +74,10 @@ nav .githubIcon {
 
 
 #Allcards {
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    /* align-items: start;
-    justify-content: start; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: start;
     gap: 1em;
     margin-top: max(50px, 3%);
     width: min(95vw, 1600px);
@@ -94,7 +94,7 @@ nav .githubIcon {
     height: auto;
     width: min(80vw, 45%);
     max-width: fit-content;
-    min-width: min(85%, 550px);
+    min-width: min(85%, 350px);
     margin-inline: auto;
     padding: 2em;
     border-radius: 12px;
