@@ -1,0 +1,23 @@
+{
+    "title": "story title",
+    "about_story": "about the story",
+    "number_of_pages": "<number>",
+    "pages": [
+        {
+            "page_title": "page title",
+            "page_content": [
+                "paragraph1",
+                "paragraph2",
+                "paragraph2"
+            ]
+        }
+    ],
+
+    
+    "credits": [
+        {
+            "name": "",
+            "url": ""
+        }
+    ]
+}
