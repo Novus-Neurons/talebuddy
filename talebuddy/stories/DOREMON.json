@@ -1,0 +1,21 @@
+{
+    "title": "Doremon",
+    "about_story": "A robot from 22nd century",
+    "number_of_pages": "<1>",
+    "pages": [
+        {
+            "page_title": "Nobita",
+            "page_content": [
+                "Doremon have the infinity pocket in which we can found lots of gadgets",
+                "Nobita is doremon's friend and he is very looser guy",
+                "Shizuka is dekisuzi's girlfriend"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "",
+            "url": ""
+        }
+    ]
+}
