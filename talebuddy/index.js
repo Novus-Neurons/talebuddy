@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
             .then(data => {
                 // console.log(data.chapter_data_paths)
                 for (let i = 0; i < data.story_paths.length; i++) {
-                    console.log("card path : ", data.story_paths[i])
+                    // console.log("card path : ", data.story_paths[i])
                     rendercard(`.${data.story_paths[i]}`)
                 }
                 // let allchapter = JSON.parse(data)
@@ -25,12 +25,12 @@ document.addEventListener("DOMContentLoaded", function () {
     //render Cards
     async function rendercard(path) {
 
-        console.log(path)
+        // console.log(path)
         let carddata;
         await fetch(path)
             .then(response => response.json())
             .then(cardData => {
-                console.log("cardData : ", cardData)
+                // console.log("cardData : ", cardData)
                 carddata = cardData
 
             });

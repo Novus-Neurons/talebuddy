@@ -6,7 +6,7 @@
         "/stories/The_Gulliver's_Travels.json",
         "/stories/A_KING.json",
         "/stories/RUSTY_REBEL.json",
-        "/talebuddy/stories/luffy.json",
+        "/stories/stories/luffy.json",
         "/stories/Sanatan.json",
         "/stories/sabhya.json",
         "/stories/HARE.json",
@@ -14,6 +14,6 @@
         "/stories/isha.json",
         "/stories/DOREMON.json",
         "/stories/NINJA_HATTORI.json",
-        "/stories/hi.json",
+        "/stories/hi.json"
     ]
 }
