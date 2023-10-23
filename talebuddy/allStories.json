@@ -1,7 +1,6 @@
 {
-    "total_number_of_stories": 3,
+    "total_number_of_stories": 1,
     "story_paths": [
-        "telebuddy/stories/HACK_OCT.json",
-        "telebuddy/stories/NewStory.json"
+        "telebuddy/stories/HACK_OCT.json"
     ]
 }

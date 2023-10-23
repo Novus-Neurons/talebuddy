@@ -1,6 +1,6 @@
 {
     "title": "Avenger",
-    "number_of_pages": 10,
+    "number_of_pages": 5,
     "pages": [
         {
             "page_title": "Tony Stark",
@@ -9,12 +9,44 @@
                 "He created the Iron Man suit, which he uses to fight villains and save the world.",
                 "With his intelligence and technology, he's a crucial member of the Avengers."
             ]
+        },
+        {
+            "page_title": "Steve Rogers",
+            "page_content": [
+                "Steve Rogers, also known as Captain America, is a super soldier with enhanced abilities.",
+                "He wields a vibranium shield and leads the Avengers with honor and courage.",
+                "His unwavering dedication to justice inspires those around him."
+            ]
+        },
+        {
+            "page_title": "Natasha Romanoff",
+            "page_content": [
+                "Natasha Romanoff, the Black Widow, is a master spy and assassin.",
+                "She uses her skills to gather intelligence and take down threats.",
+                "Her complex past and unbreakable determination make her an invaluable member of the team."
+            ]
+        },
+        {
+            "page_title": "Bruce Banner",
+            "page_content": [
+                "Dr. Bruce Banner, also known as the Hulk, is a brilliant scientist with a formidable alter ego.",
+                "When he transforms into the Hulk, his incredible strength becomes a force for good.",
+                "He struggles to control his anger but channels it for the greater good."
+            ]
+        },
+        {
+            "page_title": "Thor Odinson",
+            "page_content": [
+                "Thor, the God of Thunder, hails from Asgard and wields the mighty Mjölnir.",
+                "He fights alongside the Avengers to protect the realms from cosmic threats.",
+                "His bravery and godly powers make him a formidable ally in the battle against evil."
+            ]
         }
     ],
     "credits": [
         {
-            "name": "Stan Lee",
-            "url": "talebuddy\talebuddy\stories\HACK_OCT.json"
+            "name": "Parth Tambe",
+            "url": "https://github.com/tambeparth/talebuddy"
         }
     ]
 }
