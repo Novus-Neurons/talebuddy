@@ -2,7 +2,6 @@
     "total_number_of_stories": 3,
     "story_paths": [
         "telebuddy/stories/HACK_OCT.json",
-        "telebuddy/stories/NewStory.json",
-        "telebuddy/stories/Avenger.json"
+        "telebuddy/stories/NewStory.json"
     ]
 }
