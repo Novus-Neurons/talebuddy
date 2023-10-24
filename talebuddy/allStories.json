@@ -1,7 +1,8 @@
 {
-    "total_number_of_stories":12,
+"total_number_of_stories":12,
     "story_paths":[
         "/stories/AA.json",
+        "stories/HACK_OCT.json",
         "/stories/HARRY_POTTER.json",
         "/stories/The_Gulliver's_Travels.json",
         "/stories/A_KING.json",
