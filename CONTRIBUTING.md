@@ -69,6 +69,23 @@ Follow these steps to create and contribute a new JSON file for your story or ta
 }
 ```
 
+### Add your contribution to the frontend
+
+navigate to 
+
+"/talebuddy/allStories.json"
+
+add your file's relative path to the "story_paths" array
+
+```json
+{
+    "total_number_of_stories":1,
+    "story_paths":[
+        "talebuddy/stories/HARRY_POTTER.json"
+    ]
+}
+```
+
 ### Website Development Contribution
 
 If you wish to contribute to the website's development, you can refer to the designs provided in the `/designs` folder. Make improvements to the user interface and user experience while following best practices for web development.

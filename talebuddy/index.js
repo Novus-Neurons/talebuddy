@@ -1,4 +1,4 @@
-// Render navbar and load story data
+// render navbar
 document.addEventListener("DOMContentLoaded", function () {
     // Load the navbar content
     fetch("./components/navbar.html")
@@ -7,39 +7,51 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("navbar").innerHTML = navbarHtml;
         });
 
-    // Load and display the story data
-    fetch("./telebuddy/stories/HACK_OCT.json")
-        .then(response => response.json()) // Parse JSON data
-        .then(storyData => {
-            // Access story details
-            const storyTitle = storyData.title;
-            const storyPages = storyData.pages;
 
-            // Display the story title and pages in the HTML
-            const storyTitleElement = document.getElementById("story-title");
-            const storyPagesElement = document.getElementById("story-pages");
+    // fetchAllCards
+    async function fetchAllcards() {
+        await fetch("./allStories.json")
+            .then(responce => responce.json())
+            .then(data => {
+                // console.log(data.chapter_data_paths)
+                for (let i = 0; i < data.story_paths.length; i++) {
+                    // console.log("card path : ", data.story_paths[i])
+                    rendercard(`.${data.story_paths[i]}`)
+                }
+                // let allchapter = JSON.parse(data)
+            })
+    }
 
-            storyTitleElement.innerText = storyTitle;
-            storyPagesElement.innerText = `Number of Pages: ${storyPages.length}`;
+    //render Cards
+    async function rendercard(path) {
 
-            // Display the individual pages of the story
-            const storyContentElement = document.getElementById("story-content");
-            storyContentElement.innerHTML = ""; // Clear previous content
+        // console.log(path)
+        let carddata;
+        await fetch(path)
+            .then(response => response.json())
+            .then(cardData => {
+                // console.log("cardData : ", cardData)
+                carddata = cardData
 
-            storyPages.forEach(page => {
-                const pageTitle = page.page_title;
-                const pageContent = page.page_content;
-
-                const pageElement = document.createElement("div");
-                pageElement.innerHTML = `<h2>${pageTitle}</h2>`;
-
-                pageContent.forEach(paragraph => {
-                    const paragraphElement = document.createElement("p");
-                    paragraphElement.innerText = paragraph;
-                    pageElement.appendChild(paragraphElement);
-                });
-
-                storyContentElement.appendChild(pageElement);
             });
-        });
+
+        await fetch("./components/card.html")
+            .then(responce => responce.text())
+            .then((componentHTML) => {
+                const cardsContainer = document.getElementById("Allcards")
+
+                // const type = typeof componentHTML 
+                // console.log(type) // string
+
+                const FinalCardComponent = componentHTML
+                    .replace(/{{Cardtitle}}/g, carddata.title)
+                    .replace(/{{CardDescription}}/g, carddata.about_story);
+
+                cardsContainer.innerHTML += FinalCardComponent
+
+            })
+    }
+
+    fetchAllcards()
+
 });

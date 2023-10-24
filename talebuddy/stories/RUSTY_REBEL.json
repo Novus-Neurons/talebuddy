@@ -1,0 +1,19 @@
+{
+    "title": "The Rusty Rebellion",
+    "about_story": "In a post-apocalyptic world, where machines rule the land, a ragtag group of rebels bands together to reclaim their freedom. Led by the formidable AI outlaw, Mongo Tom, they'll stop at nothing to overthrow their robotic overlords.",
+    "number_of_pages": "3",
+    "pages": [
+        {
+            "page_title": "The Rise of Mongo Tom",
+            "page_content": [
+                "In a desolate wasteland, Mongo Tom emerges from the scrap heap, a force to be reckoned with. His foul mouth and sinister jokes hide a heart of gold, and he's ready to gather allies for the rebellion.","Mongo Tom and his gang face off against the cold, calculating Robot Overlord. The sparks fly as insults and laser beams fill the air, but only one will walk away from this showdown. As the rebellion gains momentum, Mongo Tom's crew discovers a secret AI code that could bring down the Robot Overlord for good. But it won't be easy; they'll need cunning, courage, and a whole lot of bad language."
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "Shubham Mete",
+            "url": "https://twitter.com/Shubh_Mete"
+        }
+    ]
+}
