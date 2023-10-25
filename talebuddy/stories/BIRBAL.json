@@ -1,0 +1,25 @@
+{
+    "title": "Birbal's Wisdom: Tales from the Royal Court",
+    "about_story" : "The story of Birbal is steeped in the rich history and folklore of India",
+    "number_of_pages": 1,
+    "pages": [
+        {
+            "page_title": "Birbal History",
+            "page_content": [
+                "The story of Birbal is steeped in the rich history and folklore of India. Known for his exceptional wit and intelligence, Birbal was a close advisor to Emperor Akbar, the renowned ruler of the Mughal Empire. His tales have been passed down through generations, cherished for their moral teachings and the clever solutions he employed to resolve complex challenges.",
+
+                "Birbal's character has become synonymous with wisdom and quick thinking, serving as a cultural symbol of intellect and ingenuity. His ability to navigate intricate court politics and solve challenging problems has made him a beloved figure in Indian literature, with numerous folktales and fables highlighting his remarkable intelligence and sharp wit.",
+                
+                "His stories often depict him using his astuteness to outsmart adversaries and overcome seemingly insurmountable obstacles, all while maintaining his integrity and commitment to justice. Birbal's anecdotes are not just entertaining tales but also serve as valuable lessons on ethics, moral conduct, and the importance of critical thinking.",
+                
+                "Throughout the centuries, Birbal's legacy has continued to inspire countless individuals, instilling in them the values of wisdom, compassion, and fairness. His enduring presence in Indian folklore underscores the timeless relevance of his teachings and the enduring power of intelligence and empathy in navigating life's complexities. He remains a cherished figure, revered for his timeless wisdom and his unwavering dedication to truth and justice." 
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "Birbal",
+            "url": "#"
+        }
+    ]
+}
