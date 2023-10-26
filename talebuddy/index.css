@@ -8,7 +8,6 @@
 }
 
 body {
-    background: #ECECFF;
     text-align: center;
     color: #212121;
 }
@@ -21,7 +20,7 @@ body {
     height: 100vh;
     width: 100%;
     z-index: -1;
-    background: radial-gradient(92.82% 58.5% at 65.55% 44.29%, rgba(188, 208, 248, 0.50) 0%, rgba(255, 252, 252, 0.85) 100%), #F2F9F4;
+    background-image: linear-gradient(45deg,black,rgb(24, 23, 23));
 }
 
 nav a {
@@ -33,7 +32,8 @@ nav {
     display: flex;
     width: 94%;
     border-radius: 25px;
-    background: #3094AA;
+    background: rgb(34, 2, 63);
+    border: gold 1px solid; 
     align-items: center;
     justify-content: space-between;
     padding: 0.1em 2em;
@@ -85,7 +85,9 @@ nav .githubIcon {
 }
 
 .card:hover {
-    box-shadow: 6px 0.55px 18px -3px rgba(101, 101, 101, 0.608);
+    box-shadow: 6px 0.55px 18px -2px rgba(234, 255, 45, 0.849);
+    background-image:linear-gradient(-45deg,rgb(34, 2, 63) 90%,black 20%) ;
+    transition: 500ms;
 }
 
 .card {
@@ -97,10 +99,11 @@ nav .githubIcon {
     margin-inline: auto;
     padding: 2em;
     border-radius: 12px;
-    border: 1px solid rgba(34, 34, 34, 0.25);
-    background: #FFF;
+    box-shadow: 6px 0.55px 18px -3px rgba(215, 86, 255, 0.608);
+    border: 2px solid gold;
+    background-image:linear-gradient(-45deg,black 90%,rgb(34, 2, 63) 20%) ;
+    color: wheat;
     gap: 1em;
-    transition: 0.5s;
     cursor: pointer;
 }
 
