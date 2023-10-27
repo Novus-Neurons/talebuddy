@@ -1,14 +1,31 @@
 {
-
-    "total_number_of_stories": 3,
+    "total_number_of_stories": 25,
     "story_paths": [
         "telebuddy/stories/HACK_OCT.json",
         "telebuddy/stories/NewStory.json",
-        "telebuddy/stories/Avenger.json"
-=======
-    "total_number_of_stories":1,
-    "story_paths":[
-        "talebuddy/stories/HARRY_POTTER.json"
-
+        "telebuddy/stories/Avenger.json",
+        "talebuddy/stories/HARRY_POTTER.json",
+        "/stories/AA.json",
+        "stories/HACK_OCT.json",
+        "/stories/HARRY_POTTER.json",
+        "/stories/The_Gulliver's_Travels.json",
+        "/stories/A_KING.json",
+        "/stories/RUSTY_REBEL.json",
+        "/stories/stories/luffy.json",
+        "/stories/Sanatan.json",
+        "/stories/sabhya.json",
+        "/stories/HARE.json",
+        "/stories/SW.json",
+        "/stories/isha.json",
+        "/stories/DOREMON.json",
+        "/stories/NINJA_HATTORI.json",
+        "/stories/hi.json",
+        "/stories/STORY.json",
+        "/stories/BIRBAL.json",
+        "/stories/JODHA_AKBAR.json",
+        "/stories/RAMAYAN.json".
+        "/stories/ALICE_WONDERLAND.json",
+        "/stories/IIT_story.json",
+        "/stories/Tenali.json"
     ]
 }

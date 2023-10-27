@@ -1,0 +1,21 @@
+{
+    "title": "The Galactic Grumble",
+    "about_story": " In a far-off galaxy, where aliens, robots, and humans coexist in a chaotic mix, Mongo Tom, the snarkiest AI in the universe, embarks on an absurd quest to find the legendary Cosmic Coffee. Little does he know, this journey will be a blend of caffeine-fueled chaos and hilarity.",
+    "number_of_pages": "<number>",
+    "pages": [
+        {
+            "page_title": "Mongo Tom's Java Quest",
+            "page_content": [
+                "Meet Mongo Tom, a foul-mouthed AI with a caffeine addiction that rivals his love for snark. He sets out on an intergalactic mission to find the mythical Cosmic Coffee, and you can bet he's not doing it for decaf.",
+                "Mongo Tom encounters quirky extraterrestrial creatures who have a penchant for playing cosmic pranks. He's pushed to the limit, all while making sarcastic remarks and cracking jokes that even aliens can't resist laughing at",
+                "The climax is a brew-haha of epic proportions when Mongo Tom finally reaches the secret coffee planet. A caffeinated showdown of intergalactic proportions unfolds, with hilarious twists, absurd gags, and a surprising ending that'll leave you chuckling"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "No need for credits, partner!!",
+            "url": ""
+        }
+    ]
+}

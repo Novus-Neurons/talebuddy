@@ -1,0 +1,24 @@
+{
+    "title": "RAM-SEETA",
+    "about_story": "Life of ram & seeta",
+    "number_of_pages": "<1>",
+    "pages": [
+        {
+            "page_title": "RAVAN",
+            "page_content": [
+                "Once upon a time, in the ancient land of Ayodhya, there existed a kingdom renowned for its prosperity, wisdom, and righteousness. King Dasharatha ruled this magnificent kingdom, and his eldest son was the valiant and righteous Ram, beloved by all. Ram was known for his unwavering devotion to dharma and his noble character. His wife, the beautiful and virtuous Seeta, was considered the epitome of grace and integrity.",
+
+                "In the same era, in the distant island kingdom of Lanka, there reigned a powerful and feared demon king named Ravan. Ravan was infamous for his unmatched strength, intellect, and magical prowess. He was a master of warfare and had a vast kingdom under his command. However, despite his might, he was tormented by an insatiable thirst for power and a relentless desire to conquer all that lay in his path.",
+
+                "One fateful day, fueled by his lust for power, Ravan learned of Seeta's unparalleled beauty and heard tales of her unwavering devotion to Ram. Enraptured by her description, Ravan, with his devious mind, devised a cunning plan to abduct Seeta and bring her to his golden kingdom in Lanka. Disguised as a sage, he approached Seeta when she was alone and vulnerable. With his deceptive charm, he lured her away from the safety of her kingdom and whisked her away to his island fortress, leaving chaos and despair in his wake."
+            ]
+        }
+    ],
+
+    "credits": [
+        {
+            "name": " by anil dudhe",
+            "url": "https://github.com/AnilDudhe0777/talebuddy"
+        }
+    ]
+}

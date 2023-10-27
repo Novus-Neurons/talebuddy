@@ -1,0 +1,21 @@
+{
+    "title": "DOREAMON Introduction",
+    "about_story" : "Doremon is male blue cat robot",
+    "number_of_pages": 1,
+    "pages": [
+        {
+            "page_title": "Nobita",
+            "page_content": [
+                "Written By Nobita",
+                "His frinds are Gian and Sunio",
+                "The series explores themes of friendship."
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "Doremon",
+            "url": "#"
+        }
+    ]
+}
