@@ -10,7 +10,7 @@
 body {
     background: #ECECFF;
     text-align: center;
-    color: #212121;
+    color: #1b1a1a;
 }
 
 #main::before {
@@ -33,7 +33,7 @@ nav {
     display: flex;
     width: 94%;
     border-radius: 25px;
-    background: #3094AA;
+    background: #24a0be;
     align-items: center;
     justify-content: space-between;
     padding: 0.1em 2em;
@@ -99,9 +99,9 @@ nav .githubIcon {
     border-radius: 12px;
     border: 1px solid rgba(34, 34, 34, 0.25);
     background: #FFF;
-    gap: 1em;
-    transition: 0.5s;
-    cursor: pointer;
+    gap: 1.5em;
+    transition: 0.8s;
+    cursor: progress;
 }
 
 .card p {
@@ -114,7 +114,7 @@ nav .githubIcon {
 @media only screen and (max-width : 520px) {
 
     nav .search-container {
-        display: none;
+        display: block;
     }
 
 }
