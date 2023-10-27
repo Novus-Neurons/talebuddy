@@ -1,0 +1,19 @@
+{
+    "title": "IIT_story",
+    "about_story": "Story of an IITian",
+    "number_of_pages": "1",
+    "pages": [
+        {
+            "page_title": "IIT: overrated?",
+            "page_content": [
+                "IITs are prestigious institutions in our country..."
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "by Arin Kulkarni",
+            "url": "-"
+        }
+    ]
+}
