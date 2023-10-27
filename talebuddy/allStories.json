@@ -1,6 +1,10 @@
 {
-"total_number_of_stories":19,
-    "story_paths":[
+    "total_number_of_stories": 25,
+    "story_paths": [
+        "telebuddy/stories/HACK_OCT.json",
+        "telebuddy/stories/NewStory.json",
+        "telebuddy/stories/Avenger.json",
+        "talebuddy/stories/HARRY_POTTER.json",
         "/stories/AA.json",
         "stories/HACK_OCT.json",
         "/stories/HARRY_POTTER.json",
