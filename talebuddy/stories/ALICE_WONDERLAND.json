@@ -1,0 +1,21 @@
+{
+    "title": "Alice in Wonderland Introduction",
+    "about_story" : "Alice is a young girl who falls into a fantastical world through a rabbit hole, encountering strange characters and curious adventures.",
+    "number_of_pages": 1,
+    "pages": [
+        {
+            "page_title": "Alice",
+            "page_content": [
+                "Written By Lewis Carroll",
+                "Alice's adventures include encounters with the White Rabbit, the Mad Hatter, and the Queen of Hearts.",
+                "The story is known for its whimsical and imaginative elements."
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "Alice in Wonderland",
+            "url": "#"
+        }
+    ]
+}
