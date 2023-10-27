@@ -1,0 +1,27 @@
+{
+    "title": "The Great Gatsby",
+    "about_story" : "A tale of decadence, illusion, and the American Dream in the Roaring Twenties",
+    "number_of_pages": 2,
+    "pages": [
+        {
+            "page_title": "Chapter 1: The Buchanans' Mansion",
+            "page_content": [
+                "Nick Carraway, the narrator, tells the story of his arrival in Long Island and his neighbor, Jay Gatsby. The Buchanans, who live in a grand mansion, are Nick's cousins and his initial introduction to the world of the wealthy.",
+                "In the opulent surroundings of the Buchanans' home, Nick describes the complex dynamics and the tension between Tom and Daisy Buchanan. The scene is set for the decadence and excess that will follow in the story."
+            ]
+        },
+        {
+            "page_title": "Chapter 2: Gatsby's Extravagant Parties",
+            "page_content": [
+                "Nick shares his experience of attending one of Gatsby's famous parties. These gatherings are lavish and extravagant, with music, dancing, and an abundance of guests.",
+                "Gatsby himself remains elusive, with many rumors and speculations about his background and the source of his wealth. The parties are a reflection of the excesses of the Roaring Twenties, and they set the stage for the mystery surrounding Gatsby's character and motivations."
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "F. Scott Fitzgerald",
+            "url": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+        }
+    ]
+}
