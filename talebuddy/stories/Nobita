@@ -1,0 +1,21 @@
+{
+    "title": "Nobita",
+    "about_story": "A boy from 21nd century",
+    "number_of_pages": "<1>",
+    "pages": [
+        {
+            "page_title": "Nobita",
+            "page_content": [
+                "Nobita have the friend with infinity pocket in which we can found lots of gadgets",
+                "Nobita is doremon's friend and he is very looser guy",
+                "Shizuka is dekisuzi's girlfriend"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "",
+            "url": ""
+        }
+    ]
+}
