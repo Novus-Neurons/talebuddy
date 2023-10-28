@@ -1,0 +1,27 @@
+{
+    "title": "Web Scraping With Mohit",
+    "about_story": "How to Scrap data from Websites",
+    "number_of_pages": "1",
+    "pages": [
+        {
+            "page_title": "Web Scraping",
+            "page_content": [
+               " Once upon a time in a bustling city named DataVille, there lived a young and ambitious programmer named Alex. Alex had always been fascinated by data and the endless possibilities it offered. He spent countless hours writing code and building tools to gather information from the vast landscape of the internet.",
+
+" One day, while scrolling through an online forum, Alex stumbled upon a discussion about web scraping. The concept intrigued him deeply - the idea of extracting data from websites automatically was like discovering a treasure trove of information just waiting to be unlocked. With newfound enthusiasm, Alex decided to embark on a journey to become a web scraper extraordinaire.",
+
+"Alex started small, scraping basic data like weather forecasts and stock prices from websites. He soon realized the power of web scraping lay not only in gathering information but in what you could do with it. He created a simple weather forecasting app that offered personalized, hyper-local weather predictions based on scraped data. The app quickly gained popularity, and this success fueled his passion further.",
+
+"As Alex delved deeper into web scraping, he began tackling more complex challenges. He scraped e-commerce sites for pricing and product information, enabling users to find the best deals online. He extracted news articles from various sources and summarized them, creating an automated news aggregator. His skills as a web scraper were rapidly evolving, and he was gaining recognition in the tech community."
+
+
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "WEB_SCRAPER",
+            "url": ""
+        }
+    ]
+}
