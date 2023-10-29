@@ -1,5 +1,5 @@
 {
-    "total_number_of_stories": 25,
+    "total_number_of_stories": 26,
     "story_paths": [
         "/stories/HACK_OCT.json",
         "/stories/NewStory.json",
@@ -28,6 +28,7 @@
         "/stories/IIT_story.json",
         "/stories/Tenali.json",
         "/stories/Gatsby.json",
-        "/stories/Two_Kitten.json"
+        "/stories/Two_Kitten.json",
+        "/stories/WEN_SCRAPER_STORY.json"
     ]
 }
