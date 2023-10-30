@@ -1,8 +1,12 @@
 {
-"total_number_of_stories":12,
-    "story_paths":[
+    "total_number_of_stories": 27,
+    "story_paths": [
+        "/stories/HACK_OCT.json",
+        "/stories/NewStory.json",
+        "/stories/Avenger.json",
+        "/stories/HARRY_POTTER.json",
         "/stories/AA.json",
-        "stories/HACK_OCT.json",
+        "/stories/HACK_OCT.json",
         "/stories/HARRY_POTTER.json",
         "/stories/The_Gulliver's_Travels.json",
         "/stories/A_KING.json",
@@ -19,14 +23,14 @@
         "/stories/STORY.json",
         "/stories/BIRBAL.json",
         "/stories/JODHA_AKBAR.json",
+        "/stories/RAMAYAN.json",
         "/stories/ALICE_WONDERLAND.json",
         "/stories/IIT_story.json",
         "/stories/Tenali.json",
         "/stories/Gatsby.json",
         "/stories/Two_Kitten.json",
         "/stories/WEN_SCRAPER_STORY.json",
-        "/stories/TenaliDetective.json",
-        "/stories/TenaliAndCursedMan.json",
-        "/stories/ALL_ABOUT_DATA_SCIENCE.json"
+        "/stories/ALL_ABOUT_DATA_SCIENCE.json",
+        "/stories/TenaliAndCursedMan.json"
     ]
 }
