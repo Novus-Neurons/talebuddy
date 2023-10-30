@@ -20,7 +20,12 @@
         "/stories/BIRBAL.json",
         "/stories/JODHA_AKBAR.json",
         "/stories/ALICE_WONDERLAND.json",
+        "/stories/IIT_story.json",
         "/stories/Tenali.json",
+        "/stories/Gatsby.json",
+        "/stories/Two_Kitten.json",
+        "/stories/WEN_SCRAPER_STORY.json",
+        "/stories/ALL_ABOUT_DATA_SCIENCE.json",
         "/stories/TenaliDetective.json",
         "/stories/TenaliAndCursedMan.json"
     ]
