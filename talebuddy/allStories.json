@@ -20,6 +20,8 @@
         "/stories/BIRBAL.json",
         "/stories/JODHA_AKBAR.json",
         "/stories/ALICE_WONDERLAND.json",
-        "/stories/Tenali.json"
+        "/stories/Tenali.json",
+        "/stories/TenaliDetective.json",
+        "/stories/TenaliAndCursedMan.json"
     ]
 }
